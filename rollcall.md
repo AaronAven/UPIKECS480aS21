@@ -6,5 +6,5 @@ Rollcall
 Name, Year, Major
 -------------------------------------------------
 * Howard Francis, Faculty, Math/Computer Science
-
+* Aaron Aven, Senior, Computer Science
 
